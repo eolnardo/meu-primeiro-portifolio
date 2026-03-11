@@ -10,7 +10,4 @@ O projeto faz parte do meu cronograma de revisão técnica enquanto curso **Rede
 * Git/GitHub (Controle de versão)
 
 ## 🚀 Como visualizar
-Você pode acessar o projeto online através do link: 
-
-Página index.html:
-<img width="1788" height="900" alt="image" src="https://github.com/user-attachments/assets/2295b202-2368-48d7-9496-4500f6b7ccaa" />
+Você pode acessar o projeto online através do link: https://eolnardo.github.io/meu-primeiro-portfolio/
